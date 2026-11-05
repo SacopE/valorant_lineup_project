@@ -1,0 +1,1 @@
+print('Airek is a bum')
